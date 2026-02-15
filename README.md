@@ -1,10 +1,11 @@
 ## This tool is designed for testing open paths. It receives commands from a Telegram bot and executes them. How to use.
 First, clone the tool:
 
-
+```
 git clone https://github.com/Layer-6/d_tester.git
 cd d_tester
 python3 bots4rt.py
+```
 
 
 
@@ -35,5 +36,4 @@ It is recommended to run it on a VPS for better speed.
 
 This tool can run on phones (Termux terminal) and systems. The speed of this tool depends on your internet speed. You can run this tool in your terminal and send the bot's ID to anyone on Telegram, and your friends can also use this bot for scanning. Your bot's user information, especially (chat IDs), is stored securely and encrypted, and the scan results are not visible to you; they are sent to the user. You can only see your own scan results in the terminal inside the (report.json) file.
 
-Made by
-R#
+## Made By Red
